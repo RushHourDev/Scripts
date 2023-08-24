@@ -1,2 +1,2 @@
-# Scripts
-Collection of scripts for CTFs, penetration testing, and bug bounties.
+# Misc Scripts
+Miscellaneous scripts for random projects.
